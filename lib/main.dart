@@ -4,13 +4,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_phoenix/flutter_phoenix.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-import 'package:house_hub/models/device_info.dart';
-import 'package:house_hub/services/api/api_service.dart';
 import 'package:house_hub/services/app/app_service.dart';
-import 'package:house_hub/services/app/device_info.dart';
 import 'package:house_hub/services/route/routes.dart';
-import 'package:house_hub/firebase_options.dart';
 
+import 'firebase_options.dart';
 import 'observer.dart';
 
 
